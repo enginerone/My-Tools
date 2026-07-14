@@ -45,7 +45,29 @@ Example:
 
 ---
 ---
-## Show Later!!
+## ⚙️ Tech Tools
+| Resources | Description | Link |
+|-----------|-------------|------|
+| Agent Skills | Agent Extensions | https://www.skills.sh/ |
+| QuickRef.me | Here are some cheatsheets and quick references contributed by open source | https://quickref.me |
+
+===
+---
+## Front-end Skills 
+| Resources | Description | Link |
+|-----------|-------------|------|
+| UI/UX Pro Max | Design Intelligence | https://ui-ux-pro-max-skill.nextlevelbuilder.io/#how-it-works |
+| Tasteskill.dev | The Anti-Slop Frontend Framework | https://www.tasteskill.dev/ |
+| Playwright | | https://playwright.dev/agent-cli/skills
+| impeccable.style | The missing design vocabulary | https://impeccable.style/ |
+
+---
+====
+## AI Tool
+| Resources | Description | Link |
+|-----------|-------------|------|
+| ui2code.ai | I din't try yet | https://ui2code.ai/ |
+
 
 # 📌 Notes
 

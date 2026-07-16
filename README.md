@@ -44,14 +44,14 @@ Example:
 | roadmap.sh | PostgreSQL Roadmap | https://roadmap.sh/postgresql |
 
 ---
----
+
 ## ⚙️ Tech Tools
 | Resources | Description | Link |
 |-----------|-------------|------|
 | Agent Skills | Agent Extensions | https://www.skills.sh/ |
 | QuickRef.me | Here are some cheatsheets and quick references contributed by open source | https://quickref.me |
 
-===
+
 ---
 ## Front-end Skills 
 | Resources | Description | Link |
@@ -62,7 +62,7 @@ Example:
 | impeccable.style | The missing design vocabulary | https://impeccable.style/ |
 
 ---
-====
+
 ## AI Tool
 | Resources | Description | Link |
 |-----------|-------------|------|

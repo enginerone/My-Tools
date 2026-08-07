@@ -1,4 +1,4 @@
-## Setup & Starting a Repo
+# Setup & Starting a Repo
 git init – Initializes a new Git repository in the current directory (creates .git).
 
 git clone <url> – Makes a local copy of a remote repository (e.g., from GitHub).

@@ -1,8 +1,8 @@
 # API
 
-Domain | Decs | Where browser
-zenmux.ai | free API platform | Firefox,
-https://freellm.net/ | ? | Firefox
+| Domain | Decs | Where browser |
+| zenmux.ai | free API platform | Firefox, |
+| https://freellm.net/ | ? | Firefox |
 
 
 # free Video Generator
